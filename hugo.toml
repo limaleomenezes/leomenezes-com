@@ -1,0 +1,16 @@
+baseURL = 'https://leomenezes.com/'
+
+theme = 'hugo-valley'
+
+title = 'Leonardo Menezes'
+author = 'Leonardo Menezes'
+copyright = 'Copyright © 2025, Leonardo Menezes.'
+languageCode = 'en-us'
+
+enableRobotsTXT = true
+
+[params]
+  description = ''
+  favicon = 'images/favicon.png'
+  images = ["images/share.png"]
+  title = ''

@@ -1,0 +1,3 @@
+[submodule "themes/hugo-valley"]
+	path = themes/hugo-valley
+	url = git@github.com:limaleomenezes/hugo-valley.git
